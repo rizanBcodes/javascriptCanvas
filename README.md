@@ -1,4 +1,4 @@
-# javascriptCanvass
+# javascriptCanvas
 
 You are probably here from my Youtube playlist.
 
